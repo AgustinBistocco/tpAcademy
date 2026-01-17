@@ -99,4 +99,4 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 
 ## Author
 
-This project was developed by Agus as a practice for Git and NestJS workflow :D
+This project was developed by Agustin Bistocco as a practice for Git and NestJS workflow :D
